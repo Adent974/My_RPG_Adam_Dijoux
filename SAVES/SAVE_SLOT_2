@@ -1,0 +1,46 @@
+##PLAYER##
+skill:0:1
+skill:1:0
+skill:2:0
+skill:3:0
+skill:4:0
+skill:5:0
+skill:6:1
+skill:7:1
+skill:8:0
+skill:9:0
+enemy_killed:2
+hp:50
+pos:1240.000000:8525.000000
+max_hp:50
+max_mn:50
+mana:50
+defense:5
+##INVENTORY##
+#GEAR#
+Poing Mexicain
+#ITEM#
+##PNJ##
+#PNJ_INFO#
+name:monsieur 0
+id:0
+nb_talks:0
+#PNJ_INFO#
+name:monsieur 1
+id:1
+nb_talks:0
+#PNJ_INFO#
+name:monsieur 2
+id:2
+nb_talks:0
+#PNJ_INFO#
+name:(?)
+id:2
+nb_talks:0
+#PNJ_INFO#
+name:Mata Mangael
+id:2
+nb_talks:0
+##ENEMY##
+0:0
+EOF

@@ -1,0 +1,4 @@
+Quel action allez vous faire ?
+Vous attaquez l'ennemie !
+Vous vous preparer a bloquer la prochaine attaque !
+Vous lancez un sort sur l'ennemie !

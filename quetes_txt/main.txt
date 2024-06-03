@@ -1,0 +1,10 @@
+Quete 1 :
+Bougez ! En utilisant le claver. $
+Quete 1 Réussie !
+Quete 2 :
+Parlez à Monsieur 0 $
+Quete 2 Réussie !
+Quete 3 :
+Tuez Mata Mangael $
+Quete 4 :
+Suite $
